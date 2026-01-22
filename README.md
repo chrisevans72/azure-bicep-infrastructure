@@ -10,3 +10,7 @@ networking resources in Microsoft Azure.
 - Clean, modular structure
 
 ## Project structure
+## Future improvements
+- Add Network Security Groups
+- Introduce multiple subnets
+- Support environment-specific parameter files
